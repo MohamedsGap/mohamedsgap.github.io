@@ -1,23 +1,48 @@
+const internetProfiles = {
+  github: {
+    label: 'GitHub',
+    href: 'https://github.com/mohamedsgap',
+  },
+  linkedin: {
+    label: 'LinkedIn',
+    href: 'https://www.linkedin.com/in/mohamedsgap',
+  },
+  medium: {
+    label: 'Medium',
+    href: 'https://medium.com/@MohamedsGap',
+  },
+  twitter: {
+    label: 'Twitter',
+    href: 'https://twitter.com/mohamedsgap',
+  },
+  instagram: {
+    label: 'Instagram',
+    href: 'https://www.instagram.com/mohamedsgap/',
+  },
+  facebook: {
+    label: 'Facebook',
+    href: 'https://www.facebook.com/ImMohamedAbdelNasser',
+  },
+};
+
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+
+  title: 'Mohamed Abdel Nasser',
+  tagline: 'CS Student',
+  url: 'https://mohamedsgap.github.io',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'mohamedsgap.github.io',
+  organizationName: 'mohamedsgap',
+  favicon: 'https://mohamedsgap.blogspot.com/favicon.ico',
   themeConfig: {
+    internetProfiles,
     navbar: {
-      title: 'My Site',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
-      },
+      title: 'Mohamed',
       links: [
-        {to: 'docs/doc1', label: 'Docs', position: 'left'},
-        {to: 'blog', label: 'Blog', position: 'left'},
+        { to: 'resume', label: 'Resume', position: 'left' },
+        { to: 'bucket-list', label: 'Bucket List', position: 'left' },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/mohamedsgap',
           label: 'GitHub',
           position: 'right',
         },
@@ -26,66 +51,26 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [
+        {},
         {
-          title: 'Docs',
+          title: 'Professional',
           items: [
-            {
-              label: 'Style Guide',
-              to: 'docs/doc1',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
+            internetProfiles.github,
+            internetProfiles.medium,
+            internetProfiles.linkedin,
           ],
         },
         {
           title: 'Social',
           items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
+            internetProfiles.instagram,
+            internetProfiles.twitter,
+            internetProfiles.facebook,
           ],
         },
+        {},
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-    },
+    }
   },
-  presets: [
-    [
-      '@docusaurus/preset-classic',
-      {
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
-        },
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
-      },
-    ],
-  ],
+  presets: ['@docusaurus/preset-classic'],
 };
