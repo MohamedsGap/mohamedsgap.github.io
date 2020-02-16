@@ -32,7 +32,7 @@ function Home() {
             alt="logo"
             style={{
               borderRadius: '80%',
-              maxWidth: 200,
+              maxWidth: 150,
             }}
           />
           <h1 className="hero__title">{siteConfig.title}</h1>
