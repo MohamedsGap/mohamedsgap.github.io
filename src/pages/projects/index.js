@@ -110,6 +110,7 @@ function Showcase() {
             </div>
           ))}
         </div>
+        <p className={styles.pContent}>More projects are coming very soon, you can see more and more on my GitHub.</p>
       </div>
     </Layout>
   );
