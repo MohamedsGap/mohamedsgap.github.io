@@ -40,6 +40,7 @@ module.exports = {
       title: 'Mohamed',
       links: [
         { to: 'resume', label: 'Resume', position: 'left' },
+        { to: 'projects', label: 'Projects', position: 'left'},
         { to: 'bucket-list', label: 'Bucket List', position: 'left' },
         {
           href: 'https://github.com/mohamedsgap',
