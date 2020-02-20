@@ -11,21 +11,21 @@ function BucketList() {
             <h3>TODO</h3>
             <ul>
               <li>Get Accepted in Udacity Cloud DevOps Nanodegree</li>
+              <li>Learn Docker and Kubernetes</li>
               <li>Contribute more in open source projects</li>
               <li>Build more side projects</li>
               <li>Finish BSc in Computer Science</li>
               <li>Complete my grad project successfully</li>
               <li>Get my certification of Front end path from OpenClassrooms</li>
-              <li>Apply for NTL scholarship</li>
-              <li>Apply for ITI scholarship</li>
               <li>Work as SWE at big tech company</li>
             </ul>
             <h3>In Progress</h3>
             <ul>
               <li>Study Front End path at OpenClassrooms</li>
               <li>Work on my grad project related to Blockchain</li>
-              <li>Study Udacity Bertelsmann Challenge Cloud</li>
+              <li>Study Udacity Bertelsmann Challenge Cloud Track on AWS</li>
               <li>Take part in Huawei ICT Competition 2019-2020</li>
+              <li>Looking for an intern / remotly is fine</li>
             </ul>
             <h3>Done</h3>
             <ul>
