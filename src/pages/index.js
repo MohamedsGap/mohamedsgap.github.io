@@ -37,7 +37,7 @@ function Home() {
           />
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className={styles.tagline}>
-            I'm a computer science student with a passion for all things web and open-source.
+            I'm a computer science student with a passion for all things web and open source.
           </p>
           <div className={styles.internetProfiles}>
             {intersperse(
