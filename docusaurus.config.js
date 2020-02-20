@@ -41,6 +41,7 @@ module.exports = {
       links: [
         { to: 'resume', label: 'Resume', position: 'left' },
         { to: 'bucket-list', label: 'Bucket List', position: 'left' },
+        { to: 'projects', label: 'Projects', position: 'left'},
         {
           href: 'https://github.com/mohamedsgap',
           label: 'GitHub',
@@ -72,5 +73,17 @@ module.exports = {
       ],
     }
   },
+  themes: ['@docusaurus/theme-classic'],
+  plugins: [
+    [
+      '@docusaurus/plugin-ideal-image',
+      {
+        quality: 70,
+        max: 1030, // max resized image's size.
+        min: 640, // min resized image's size. if original is lower, use that size.
+        steps: 2, // the max number of images generated between min and max (inclusive)
+      },
+    ],
+  ],
   presets: ['@docusaurus/preset-classic'],
 };
