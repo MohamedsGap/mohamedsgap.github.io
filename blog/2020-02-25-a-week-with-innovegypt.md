@@ -21,3 +21,5 @@ The third phase was about “entrepreneurship” I think this phase was outstand
 
 We made our presentation in front of all students, I think we did well, our project was about helping the students to access books, syllabus, papers research easier than ever, it’s a very powerful app with a huge benefits for all students, at the end I really thank everyone I have worked with during this training and everyone I talked, all students were amazing, helpful and friendly, I really encourage to take part in this training if possible, it was a very great week.
 
+    Thank you :) 
+
