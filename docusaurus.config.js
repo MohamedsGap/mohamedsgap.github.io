@@ -1,29 +1,3 @@
-const internetProfiles = {
-  github: {
-    label: 'GitHub',
-    href: 'https://github.com/mohamedsgap',
-  },
-  linkedin: {
-    label: 'LinkedIn',
-    href: 'https://www.linkedin.com/in/mohamedsgap',
-  },
-  medium: {
-    label: 'Medium',
-    href: 'https://medium.com/@MohamedsGap',
-  },
-  twitter: {
-    label: 'Twitter',
-    href: 'https://twitter.com/mohamedsgap',
-  },
-  instagram: {
-    label: 'Instagram',
-    href: 'https://www.instagram.com/mohamedsgap/',
-  },
-  facebook: {
-    label: 'Facebook',
-    href: 'https://www.facebook.com/ImMohamedAbdelNasser',
-  },
-};
 
 module.exports = {
 
@@ -50,30 +24,8 @@ module.exports = {
         },
       ],
     },
-    footer: {
-      style: 'dark',
-      links: [
-        {},
-        {
-          title: 'Professional',
-          items: [
-            internetProfiles.github,
-            internetProfiles.medium,
-            internetProfiles.linkedin,
-          ],
-        },
-        {
-          title: 'Social',
-          items: [
-            internetProfiles.instagram,
-            internetProfiles.twitter,
-            internetProfiles.facebook,
-          ],
-        },
-        {},
-      ],
-    }
   },
+  
   themes: ['@docusaurus/theme-classic'],
   plugins: [
     [
