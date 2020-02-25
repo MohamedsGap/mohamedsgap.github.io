@@ -1,5 +1,6 @@
 import React from 'react';
 import Layout from '@theme/Layout';
+import styles from './style.module.css';
 
 function Resume() {
   return (
@@ -59,6 +60,14 @@ function Resume() {
               </a>
             </p>
 
+            <h3>Technical Skills</h3>
+            <ul className={styles.skillsList}>
+              <li><strong>Languages:</strong> JavaScript, Python, HTML/CSS, SQL, C++</li>
+              <li><strong>Frameworks and Libraries:</strong> React.JS, React Native, Redux, Bootstrap, jQuery, Jest</li>
+              <li><strong>Tools:</strong> Git, Webpack, Gulp.JS, Markdown</li>
+              <li><strong>Others:</strong> Cloud/AWS, Bash, Linux</li>
+            </ul>
+
             <h2>Education</h2>
             <h3>University of Benha</h3>
             <ul>
@@ -88,7 +97,7 @@ function Resume() {
             </li>
             </ul>
 
-            <h2>Professional Experience</h2>
+            <h2>Experience | Work/Projects</h2>
             <h3>Web Developement Training, Developer Circles from Facebook</h3>
             <em>June 2019 - August 2019</em>
             <ul>
