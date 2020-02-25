@@ -63,7 +63,7 @@ function Resume() {
             <h3>Technical Skills</h3>
             <ul className={styles.skillsList}>
               <li><strong>Languages:</strong> JavaScript, Python, HTML/CSS, SQL, C++</li>
-              <li><strong>Frameworks and Libraries:</strong> React.JS, React Native, Redux, Bootstrap, jQuery, Jest</li>
+              <li><strong>Frameworks and Libraries:</strong> React.JS, React Native, Redux, Express.JS, Bootstrap, jQuery, Jest</li>
               <li><strong>Tools:</strong> Git, Webpack, Gulp.JS, Markdown</li>
               <li><strong>Others:</strong> Cloud/AWS, Bash, Linux</li>
             </ul>
