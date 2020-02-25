@@ -42,6 +42,7 @@ module.exports = {
         { to: 'resume', label: 'Resume', position: 'left' },
         { to: 'projects', label: 'Projects', position: 'left'},
         { to: 'bucket-list', label: 'Bucket List', position: 'left' },
+        { to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/mohamedsgap',
           label: 'GitHub',
