@@ -10,26 +10,25 @@ function BucketList() {
             <h1>Bucket List</h1>
             <h3>TODO</h3>
             <ul>
-              <li>Get Accepted in Udacity Cloud DevOps Nanodegree</li>
-              <li>Contribute more in open source projects</li>
-              <li>Learn Docker and Kubernetes</li>
               <li>Build more side projects</li>
-              <li>Finish BSc in Computer Science</li>
-              <li>Complete my grad project successfully</li>
-              <li>Complete Front End path on OpenClassrooms successfully</li>
+              <li>Make a talk at Tech Conference</li>
               <li>Work as SWE at big tech company</li>
+              <li>Contribute more and more in open source projects</li>
+              <li>Have an opportunity to meet and talk with Dan Abramov, Rachel Nabors and Yangshun Tay</li>
             </ul>
             <h3>In Progress</h3>
             <ul>
               <li>Study Front End path at OpenClassrooms</li>
-              <li>Work on my grad project related to Blockchain</li>
-              <li>Enroll in Udacity Bertelsmann Challenge | Cloud Track </li>
-              <li>Take part in Huawei ICT Competition 2019-2020</li>
+              <li>Study Cloud DevOps Nanodegree at Udacity</li>
+              <li>Last semester as computer science student</li>
+              <li>Work on my graduation project related to Blockchain</li>
+              <li>Take part in Huawei ICT Competition 2019-2020 | Selection Exam Phase</li>
             </ul>
             <h3>Done</h3>
             <ul>
-              <li>Accepted in Developer Circles from Facebook</li>
               <li>Completed Udacity Front End Nanodegree</li>
+              <li>Accepted in Developer Circles from Facebook</li>
+              <li>Get Accepted in Udacity Cloud DevOps Nanodegree</li>
               <li>Started studying computer science at Benha university</li>
             </ul>
           </div>
