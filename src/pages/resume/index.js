@@ -183,7 +183,7 @@ function Resume() {
                 Recently became a member of Kubernetes organization, because I
                 kick start the Kubernetes localization in Arabic, for helping
                 the Arabic native speaker developers to easily adapt Kubernetes
-                and read an Arabic documentation
+                and read an Arabic documentation.
               </li>
               <li>
                 Member of an organization called “SoftVenue”, we
@@ -199,7 +199,8 @@ function Resume() {
               <div className="col">
                 <ul>
                   <li>
-                    Selected as one of top 9 students out of total 500 students who participate in National Exam of Huawei ICT competition, so I Have an opportunity to compete on Platinum and diamond medal and reach the final in China.
+                    Selected as one of top 9 students out of total 500 students who participate in National Exam of Huawei ICT competition, 
+                    so I Have an opportunity to compete on Platinum and diamond medal and reach the final in China.
                   </li>
                 </ul>
               </div>
@@ -213,7 +214,7 @@ function Resume() {
                   <li>
                     Selected as one of the 15% top high-performers at the first 4-months of Udacity
                     Bertelsmann Challenge Scholarship of Cloud track, then Bertelsmann SE & CO.
-                    funded my 6-months Cloud DevOps Nanodegree at Udacity
+                    funded my 6-months Cloud DevOps Nanodegree at Udacity.
                   </li>
                 </ul>
               </div>
@@ -241,7 +242,7 @@ function Resume() {
                   <li>
                     Selected as one of the 10% top high-performers at the first
                     3-months of Google Developer Challenge Scholarship, then
-                    Google funded my 6-months Front End Nanodegree at Udacity
+                    Google funded my 6-months Front End Nanodegree at Udacity.
                   </li>
                 </ul>
               </div>
