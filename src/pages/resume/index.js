@@ -180,14 +180,14 @@ function Resume() {
                 developers to learn React faster.
               </li>
               <li>
-                I recently became a member of Kubernetes organization, because I
+                Recently became a member of Kubernetes organization, because I
                 kick start the Kubernetes localization in Arabic, for helping
                 the Arabic native speaker developers to easily adapt Kubernetes
                 and read an Arabic documentation
               </li>
               <li>
-                I am also a member of an organization called “SoftVenue”, we
-                build tools and localize some docs for helping young developers.
+                Member of an organization called “SoftVenue”, we
+                build tools and localize some docs for helping the developers.
               </li>
             </ul>
 
@@ -199,8 +199,7 @@ function Resume() {
               <div className="col">
                 <ul>
                   <li>
-                    Selected as one of top 9 students out of total 500 students who participate in National Exam of Huawei ICT competition, 
-                    I Have an opportunity to compete on Platinum and diamond medal and reach to final in China.
+                    Selected as one of top 9 students out of total 500 students who participate in National Exam of Huawei ICT competition, so I Have an opportunity to compete on Platinum and diamond medal and reach the final in China.
                   </li>
                 </ul>
               </div>
