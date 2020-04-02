@@ -24,6 +24,13 @@ const users = [
     source: 'https://github.com/mohamedsgap/myreads-app',
   },
   {
+    title: 'Zombie vs Human 🧟‍♂️',
+    description: 'Built a fully functional turn-based game in JavaScript',
+    preview: require('./showcase/zombie-human.png'),
+    website: 'https://www.mohdabdelnasser.live/zombie-vs-human/',
+    source: 'https://github.com/mohamedsgap/zombie-vs-human/',
+  },
+  {
     title: 'Social Memory Game 🧩',
     description: 'Built my own version of the classic memory game using JavaScript',
     preview: require('./showcase/smg.png'),
@@ -124,7 +131,6 @@ function Showcase() {
             </div>
           ))}
         </div>
-        <p className={styles.pContent}>More projects are coming very soon, you can see more and more on my GitHub.</p>
       </div>
     </Layout>
   );
