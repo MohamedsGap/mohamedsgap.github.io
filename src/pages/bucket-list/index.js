@@ -28,8 +28,8 @@ function BucketList() {
             <ul>
               <li>Completed Udacity Front End Nanodegree</li>
               <li>Accepted in Developer Circles from Facebook</li>
-              <li>Get Accepted in Udacity Cloud DevOps Nanodegree</li>
               <li>Started studying computer science at Benha university</li>
+              <li>Got accepted in Udacity Cloud DevOps Nanodegree from Bertlesmann Udacity challenge</li>
             </ul>
           </div>
         </div>
