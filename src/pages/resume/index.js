@@ -144,12 +144,6 @@ function Resume() {
             </ul>
 
             <h2>Experience</h2>
-            <h3>Front End Engineer at Valoro</h3>
-            <em>March 2020 - Present</em>
-            <p>
-              Got an opportunity to work as Part Time Front End Engineer to make
-              the user experience as rich and interactive as possible.
-            </p>
 
             <h3>Open Source Contribution</h3>
             <span>Passionate for all things web and open-source.</span>
