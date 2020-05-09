@@ -63,19 +63,16 @@ function Resume() {
             <h2>Technical Skills</h2>
             <ul className={styles.skillsList}>
               <li>
-                <strong>Languages:</strong> JavaScript, Python, HTML/CSS, SQL,
+                <strong>Languages:</strong> JavaScript, TypeScript, Python, HTML/CSS, SQL,
                 C++
               </li>
               <li>
                 <strong>Frameworks and Libraries:</strong> React.JS, React
-                Native, Redux, Next.JS, Express.JS, Bootstrap, Jest
+                Native, Redux, Next.JS, Express.JS, Bootstrap, Jest.
               </li>
               <li>
-                <strong>Tools:</strong> Git, Webpack, Gulp.JS, BabelJS, Markdown
-              </li>
-              <li>
-                <strong>Others:</strong> Cloud/AWS, Basics of Docker and
-                Kubernetes, Linux
+                <strong>Tools:</strong> Git, Webpack, Cloud(AWS & Huawei), Basics of Docker and
+                Kubernetes, Linux.
               </li>
             </ul>
 
@@ -145,43 +142,29 @@ function Resume() {
 
             <h2>Experience</h2>
 
+            <h3>Cloud Computing Intern, Huawei ICT Academy-Egypt</h3>
+            <em>April 2020 - Present | Cairo, Egypt</em>
+            <p>Work and practice on  Huawei's solutions of cloud services, storage, big data and AI as HCIA & HCIP levels</p>
+
             <h3>Open Source Contribution</h3>
             <span>Passionate for all things web and open-source.</span>
 
             <ul>
               <li>
-                Completed successfully participating at Hacktoberfest’19, by
-                creating five pull requests into different open source projects
-                on GitHub, and the pull requestshave been merged successfully.
+                Contributed to facebook/docusaurus.
               </li>
               <li>
-                Contributed to React Native Website, I contributed 18 times on
-                facebook/reactnative-website, for writing a document for the new
-                “DevSetting” API which is available now in React Native 0.62, I
-                recently contributed to update some of the existing API which
-                they are mention on component drive doc issue that is opened by
-                React core team member.
+                Contributed to facebook/react-native-website.
               </li>
               <li>
-                Contributed to facebook/docusaurus, It is an open source project
-                to easily maintain and write documentation, I contributed to
-                update its documentation for how the users can use Travis CI as
-                CI/CD in their “Docusaurus” Project.
+                Core Contributor at reactjs/ar.reactjs.org.
               </li>
               <li>
-                Core Contributor at React community and its localization, I
-                contribute to React Arabic Localization for helping the Arab
-                developers to learn React faster.
+                Member of Kubernetes organization, because I
+                kick start the Kubernetes localization in Arabic.
               </li>
               <li>
-                Recently became a member of Kubernetes organization, because I
-                kick start the Kubernetes localization in Arabic, for helping
-                the Arabic native speaker developers to easily adapt Kubernetes
-                and read an Arabic documentation.
-              </li>
-              <li>
-                Member of an organization called “SoftVenue”, we
-                build tools and localize some docs for helping the developers.
+                Member of an organization called “SoftVenue”, build tools & localize docs for helping others.
               </li>
             </ul>
 
