@@ -26,7 +26,7 @@ function BucketList() {
             </ul>
             <h3>Done</h3>
             <ul>
-              <li>being a computer science</li>
+              <li>being a computer science student</li>
               <li>Completed Udacity Front End Nanodegree</li>
               <li>Accepted in Developer Circles from Facebook</li>
               <li>Got accepted in Udacity Cloud DevOps Nanodegree from Bertlesmann Udacity challenge</li>
