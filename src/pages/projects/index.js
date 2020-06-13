@@ -18,7 +18,7 @@ const users = [
     title: "Restaurant Reviews 🍽️",
     description:
       "Built a fully functional restaurant reviews app with React, to discover the restaurants around, integrated with different APIs.",
-    preview: require("./showcase/restaurantReviews.png"),
+    preview: require("./showcase/restaurntReviews.png"),
     website: "https://www.mohdabdelnasser.live/restaurants-review-site/",
     source: "https://github.com/mohamedsgap/restaurants-review-site"
   },
