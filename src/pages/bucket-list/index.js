@@ -1,5 +1,5 @@
-import React from 'react';
-import Layout from '@theme/Layout';
+import React from "react";
+import Layout from "@theme/Layout";
 
 function BucketList() {
   return (
@@ -14,7 +14,10 @@ function BucketList() {
               <li>Make a talk at Tech Conference</li>
               <li>Work as SWE at big tech company</li>
               <li>Contribute more and more in open source projects</li>
-              <li>Have an opportunity to meet and talk with Dan Abramov, Rachel Nabors and Yangshun Tay</li>
+              <li>
+                Have an opportunity to meet and talk with Dan Abramov, Rachel
+                Nabors and Yangshun Tay
+              </li>
             </ul>
             <h3>In Progress</h3>
             <ul>
@@ -22,14 +25,20 @@ function BucketList() {
               <li>Study Cloud DevOps Nanodegree at Udacity</li>
               <li>Last semester as computer science student</li>
               <li>Work on my graduation project related to Blockchain</li>
-              <li>Take part in Huawei ICT Competition 2019-2020 | Selection Exam Phase</li>
+              <li>
+                Take part in Huawei ICT Competition 2019-2020 | Selection Exam
+                Phase
+              </li>
             </ul>
             <h3>Done</h3>
             <ul>
-              <li>being a computer science student</li>
+              <li>Being a computer science student</li>
               <li>Completed Udacity Front End Nanodegree</li>
               <li>Accepted in Developer Circles from Facebook</li>
-              <li>Got accepted in Udacity Cloud DevOps Nanodegree from Bertlesmann Udacity challenge</li>
+              <li>
+                Got accepted in Udacity Cloud DevOps Nanodegree from Bertlesmann
+                Udacity challenge
+              </li>
             </ul>
           </div>
         </div>
@@ -37,7 +46,6 @@ function BucketList() {
     </Layout>
   );
 }
-
 
 export default BucketList;
 
