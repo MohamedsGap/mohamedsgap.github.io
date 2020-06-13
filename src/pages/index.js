@@ -1,9 +1,9 @@
-import React from 'react';
-import classnames from 'classnames';
-import Layout from '@theme/Layout';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import styles from './styles.module.css';
+import React from "react";
+import classnames from "classnames";
+import Layout from "@theme/Layout";
+import Link from "@docusaurus/Link";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import styles from "./styles.module.css";
 
 function intersperse(items, separator) {
   if (items.length < 1) {
@@ -25,19 +25,20 @@ function Home() {
   const { internetProfiles } = siteConfig.themeConfig;
   return (
     <Layout title={`${siteConfig.title} | Personal Homepage`}>
-      <header className={classnames('hero', styles.header)}>
+      <header className={classnames("hero", styles.header)}>
         <div className="container">
           <img
             src="https://avatars1.githubusercontent.com/u/30293804?s=460&v=4"
             alt="logo"
             style={{
-              borderRadius: '80%',
-              maxWidth: 150,
+              borderRadius: "80%",
+              maxWidth: 150
             }}
           />
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className={styles.tagline}>
-            I'm a computer science student with a passion for all things web and open source.
+            I'm a computer science student with a passion for all things web and
+            open source.
           </p>
           <div className={styles.internetProfiles}>
             {intersperse(
@@ -49,7 +50,7 @@ function Home() {
                   </a>
                 );
               }),
-              <span className="padding-horiz--md">|</span>,
+              <span className="padding-horiz--md">|</span>
             )}
           </div>
         </div>

@@ -63,16 +63,16 @@ function Resume() {
             <h2>Technical Skills</h2>
             <ul className={styles.skillsList}>
               <li>
-                <strong>Languages:</strong> JavaScript, TypeScript, Python, HTML/CSS, SQL,
-                C++
+                <strong>Languages:</strong> JavaScript, TypeScript, Python,
+                HTML/CSS, SQL, C++
               </li>
               <li>
                 <strong>Frameworks and Libraries:</strong> React.JS, React
                 Native, Redux, Next.JS, Express.JS, Bootstrap, Jest.
               </li>
               <li>
-                <strong>Tools:</strong> Git, Webpack, Cloud(AWS & Huawei), Basics of Docker and
-                Kubernetes, Linux.
+                <strong>Tools:</strong> Git, Webpack, Cloud(AWS & Huawei),
+                Basics of Docker and Kubernetes, Linux.
               </li>
             </ul>
 
@@ -144,27 +144,25 @@ function Resume() {
 
             <h3>Cloud Computing Intern, Huawei ICT Academy-Egypt</h3>
             <em>April 2020 - Present | Cairo, Egypt</em>
-            <p>Work and practice on  Huawei's solutions of cloud services, storage, big data and AI as HCIA & HCIP levels</p>
+            <p>
+              Work and practice on Huawei's solutions of cloud services,
+              storage, big data and AI as HCIA & HCIP levels
+            </p>
 
             <h3>Open Source Contribution</h3>
             <span>Passionate for all things web and open-source.</span>
 
             <ul>
+              <li>Contributed to facebook/docusaurus.</li>
+              <li>Contributed to facebook/react-native-website.</li>
+              <li>Core Contributor at reactjs/ar.reactjs.org.</li>
               <li>
-                Contributed to facebook/docusaurus.
+                Member of Kubernetes organization, because I kick start the
+                Kubernetes localization in Arabic.
               </li>
               <li>
-                Contributed to facebook/react-native-website.
-              </li>
-              <li>
-                Core Contributor at reactjs/ar.reactjs.org.
-              </li>
-              <li>
-                Member of Kubernetes organization, because I
-                kick start the Kubernetes localization in Arabic.
-              </li>
-              <li>
-                Member of an organization called “SoftVenue”, build tools & localize docs for helping others.
+                Member of an organization called “SoftVenue”, build tools &
+                localize docs for helping others.
               </li>
             </ul>
 
@@ -176,8 +174,10 @@ function Resume() {
               <div className="col">
                 <ul>
                   <li>
-                    Selected as one of top 9 students out of total 500 students who participate in National Exam of Huawei ICT competition, 
-                    so I Have an opportunity to compete on Platinum and diamond medal and reach the final in China.
+                    Selected as one of top 9 students out of total 500 students
+                    who participate in National Exam of Huawei ICT competition,
+                    so I Have an opportunity to compete on Platinum and diamond
+                    medal and reach the final in China.
                   </li>
                 </ul>
               </div>
@@ -189,9 +189,10 @@ function Resume() {
               <div className="col">
                 <ul>
                   <li>
-                    Selected as one of the 15% top high-performers at the first 4-months of Udacity
-                    Bertelsmann Challenge Scholarship of Cloud track, then Bertelsmann SE & CO.
-                    funded my 6-months Cloud DevOps Nanodegree at Udacity.
+                    Selected as one of the 15% top high-performers at the first
+                    4-months of Udacity Bertelsmann Challenge Scholarship of
+                    Cloud track, then Bertelsmann SE & CO. funded my 6-months
+                    Cloud DevOps Nanodegree at Udacity.
                   </li>
                 </ul>
               </div>
